@@ -77,3 +77,8 @@ optional arguments:
   --print-output PRINT, -p PRINT
                         Print output (default: true)
 ```
+## Dependencies
+```
+tensorflow-gpu==2.0
+numpy
+```
