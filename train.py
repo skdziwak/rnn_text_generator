@@ -1,5 +1,5 @@
 #
-# RNN TEXT GENERATOR v0.1
+# RNN TEXT GENERATOR v1.0
 #
 # by Szymon Dziwak
 # https://github.com/skdziwak/rnn_text_generator
